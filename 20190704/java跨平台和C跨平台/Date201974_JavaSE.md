@@ -13,7 +13,7 @@
 
 ---
 
-![](https://github.com/love1026909405/ycx.github.io/tree/master/img/C跨平台图解.png)
+![](https://github.com/love1026909405/ycx.github.io/blob/master/img/C%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%9B%BE%E8%A7%A3.png)
 
 ### 跨平台需要克服的两大难点：1.各平台只识别机器语言。2.各平台的机器指令不同。
 
