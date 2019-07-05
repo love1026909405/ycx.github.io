@@ -6,14 +6,14 @@
 
 ---
 
-![](C:\Users\Admin\Desktop\尚学堂\一.JavaSE\img\JAVA跨平台图解.png)
+![](https://github.com/love1026909405/ycx.github.io/tree/master/img/JAVA跨平台图解.png)
 
 
 ### C：多次编译，到处使用。1.将.c文件通过专门针对于各个平台的编译生成各个平台的可执行文件，直接执行。
 
 ---
 
-![](C:\Users\Admin\Desktop\尚学堂\一.JavaSE\img\C跨平台图解.png)
+![](https://github.com/love1026909405/ycx.github.io/tree/master/img/C跨平台图解.png)
 
 ### 跨平台需要克服的两大难点：1.各平台只识别机器语言。2.各平台的机器指令不同。
 
