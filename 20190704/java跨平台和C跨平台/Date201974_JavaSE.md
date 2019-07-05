@@ -6,7 +6,7 @@
 
 ---
 
-![](https://github.com/love1026909405/ycx.github.io/tree/master/img/JAVA跨平台图解.png)
+![](https://github.com/love1026909405/ycx.github.io/blob/master/img/JAVA%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%9B%BE%E8%A7%A3.png)
 
 
 ### C：多次编译，到处使用。1.将.c文件通过专门针对于各个平台的编译生成各个平台的可执行文件，直接执行。
